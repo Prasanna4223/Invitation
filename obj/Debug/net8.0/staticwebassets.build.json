@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xsz2/OmV/3dZPFIwxvYoy7I8vYQ9ETCkK1xKxv87Cts=",
+  "Hash": "k4jATMo2nWYpnMYQyZBaB9AEZHWF4I2JZb3ZQFD/xpg=",
   "Source": "Demo",
   "BasePath": "_content/Demo",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Demo\\wwwroot",
       "Source": "Demo",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Demo.styles.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Demo.styles.css",
       "SourceId": "Demo",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Demo",
       "RelativePath": "Demo#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "qjapD3NiD+RsGiDgxKyNGsr5aQDDoEKC1PZSRGoYyxk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\AJITH\\repo\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Demo.styles.css"
+      "OriginalItemSpec": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Demo.styles.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Demo.bundle.scp.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Demo.bundle.scp.css",
       "SourceId": "Demo",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Demo",
       "RelativePath": "Demo#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "qjapD3NiD+RsGiDgxKyNGsr5aQDDoEKC1PZSRGoYyxk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\AJITH\\repo\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Demo.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Demo.bundle.scp.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\css\\site.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,31 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\Images\\Kovil.jpg",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
-      "BasePath": "_content/Demo",
-      "RelativePath": "favicon#[.{fingerprint}]?.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\Images\\Kovil.jpg",
-      "SourceId": "Demo",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "Images/Kovil#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Kovil.jpg"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\js\\site.js",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -206,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Demo",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AJITH\\repo\\Demo2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\",
       "BasePath": "_content/Demo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -671,7 +650,7 @@
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -716,7 +695,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -753,7 +732,7 @@
     },
     {
       "Route": "Demo.bundle.scp.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Demo.bundle.scp.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Demo.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -774,7 +753,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 07:48:19 GMT"
+          "Value": "Mon, 19 May 2025 12:38:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -790,7 +769,7 @@
     },
     {
       "Route": "Demo.styles.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Demo.styles.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Demo.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -811,7 +790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 07:48:19 GMT"
+          "Value": "Mon, 19 May 2025 12:38:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -827,7 +806,7 @@
     },
     {
       "Route": "Demo.un1pull7jt.bundle.scp.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Demo.bundle.scp.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Demo.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -848,7 +827,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 07:48:19 GMT"
+          "Value": "Mon, 19 May 2025 12:38:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -872,7 +851,7 @@
     },
     {
       "Route": "Demo.un1pull7jt.styles.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Demo.styles.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Demo.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -893,7 +872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 07:48:19 GMT"
+          "Value": "Mon, 19 May 2025 12:38:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -916,90 +895,8 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 07:48:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61n19gt1b8"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.ico",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 07:48:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
       "Route": "Images/Kovil.jpg",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\Images\\Kovil.jpg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\Images\\Kovil.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1036,7 +933,7 @@
     },
     {
       "Route": "Images/Kovil.uvpaynoec5.jpg",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\Images\\Kovil.jpg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\Images\\Kovil.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1081,7 +978,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1118,7 +1015,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1163,7 +1060,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1200,7 +1097,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1245,7 +1142,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1282,7 +1179,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1319,7 +1216,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1364,7 +1261,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1409,7 +1306,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1446,7 +1343,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1491,7 +1388,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1528,7 +1425,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1573,7 +1470,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1610,7 +1507,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1655,7 +1552,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1692,7 +1589,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1737,7 +1634,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1774,7 +1671,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1811,7 +1708,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1856,7 +1753,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1901,7 +1798,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1938,7 +1835,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1983,7 +1880,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2020,7 +1917,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2057,7 +1954,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2094,7 +1991,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2139,7 +2036,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2184,7 +2081,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2229,7 +2126,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2274,7 +2171,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2311,7 +2208,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2356,7 +2253,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2393,7 +2290,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2430,7 +2327,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2467,7 +2364,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2512,7 +2409,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2557,7 +2454,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2594,7 +2491,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2639,7 +2536,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2676,7 +2573,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2721,7 +2618,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2758,7 +2655,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2795,7 +2692,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2840,7 +2737,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2877,7 +2774,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2922,7 +2819,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2959,7 +2856,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2996,7 +2893,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3041,7 +2938,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3078,7 +2975,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3123,7 +3020,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3168,7 +3065,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "D:\\AJITH\\repo\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\Demo21\\Demo2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
